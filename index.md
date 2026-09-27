@@ -1,6 +1,6 @@
 # Politique de confidentialité — NoorQuest
 
-*Dernière mise à jour : 26 septembre 2026*
+*Dernière mise à jour : 27 septembre 2026*
 
 NoorQuest est une application d'apprentissage islamique éditée par Mandiaye Ndiaye.
 Cette page explique quelles données l'application traite, pourquoi, et ce que vous pouvez en faire.
@@ -42,15 +42,30 @@ Les abonnements sont traités par Google Play ou l'App Store. Vos coordonnées b
 
 NoorQuest s'adresse à tous les âges. Nous ne collectons sciemment aucune donnée d'un enfant de moins de treize ans sans le consentement de ses parents.
 
-## Vos droits
+## Supprimer votre compte et vos données
+
+Vous pouvez supprimer votre compte NoorQuest et toutes vos données directement depuis l'application :
+
+**Profil → Mon compte → Supprimer mon compte**
+
+La suppression est immédiate et définitive. Sont effacés :
+
+- Votre compte et votre adresse e-mail
+- Votre prénom et votre nom
+- Votre progression et vos leçons terminées
+- Vos certificats
+- Vos cercles et votre appartenance aux cercles
+
+Aucune donnée n'est conservée après la suppression.
+
+Si vous ne pouvez pas accéder à l'application, écrivez à **sagepra10@gmail.com** : nous supprimerons votre compte sous trente jours.
+
+## Vos autres droits
 
 Vous pouvez à tout moment :
 
 - **Consulter** les données de votre compte, depuis l'application
-- **Effacer votre progression**, dans Profil → Recommencer depuis le début
-- **Demander la suppression de votre compte** et de toutes vos données, en écrivant à l'adresse ci-dessous
-
-Nous répondons sous trente jours.
+- **Effacer votre progression** sans supprimer votre compte, dans Profil → Recommencer depuis le début
 
 ## Nous écrire
 
