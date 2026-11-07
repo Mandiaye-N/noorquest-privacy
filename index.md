@@ -1,6 +1,6 @@
 # Politique de confidentialité — NoorQuest
 
-*Dernière mise à jour : 27 septembre 2026*
+*Dernière mise à jour : 7 novembre 2026*
 
 NoorQuest est une application d'apprentissage islamique éditée par Mandiaye Ndiaye.
 Cette page explique quelles données l'application traite, pourquoi, et ce que vous pouvez en faire.
@@ -27,16 +27,26 @@ Certains exercices vous invitent à prononcer un mot ou une phrase en arabe. L'e
 
 **NoorQuest ne conserve aucun enregistrement audio.** Seul le résultat de la comparaison, juste ou non, reste sur votre appareil.
 
+## Les plantages et la mesure d'usage
+
+Deux outils nous disent si l'application fonctionne. Aucun des deux ne sait ce que vous lisez.
+
+**Sentry** reçoit les plantages : le message d'erreur, la version de l'application, le modèle d'appareil et un identifiant d'installation. Nous retirons l'adresse IP, l'adresse e-mail et la localisation avant l'envoi. Sans cela, nous corrigerions à l'aveugle des erreurs que nous ne reproduisons pas. Les données sont hébergées dans l'Union européenne.
+
+**PostHog** compte l'usage, **et seulement si vous l'acceptez**. Vous pouvez refuser, et changer d'avis à tout moment. La liste de ce qui est mesuré est fermée : leçon commencée, leçon terminée, royaume terminé, ouverture de l'écran d'abonnement, abonnement pris, cercle créé, micro utilisé. Jamais le titre d'une leçon, jamais une sourate, jamais une invocation : nous comptons des leçons, pas ce que vous lisez. Les adresses IP sont anonymisées, et il n'y a ni enregistrement d'écran ni capture automatique des touchers. Les données sont hébergées dans l'Union européenne.
+
 ## Ce que nous ne faisons pas
 
-- Nous ne vendons ni ne partageons vos données avec des tiers
+- Nous ne vendons vos données à personne
 - Nous n'affichons aucune publicité
-- Nous ne suivons pas votre navigation en dehors de l'application
+- Nous ne mesurons jamais le contenu religieux que vous consultez
 - Nous ne collectons pas votre position
 
 ## Les paiements
 
 Les abonnements sont traités par Google Play ou l'App Store. Vos coordonnées bancaires ne transitent jamais par NoorQuest et nous n'y avons jamais accès.
+
+Nous utilisons **RevenueCat** pour savoir si votre abonnement est actif. Il reçoit un identifiant de compte et l'état de l'abonnement — jamais votre moyen de paiement.
 
 ## Les enfants
 

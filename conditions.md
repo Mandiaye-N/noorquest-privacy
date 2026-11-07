@@ -1,6 +1,6 @@
 # Conditions d'utilisation — NoorQuest
 
-*Dernière mise à jour : 26 septembre 2026*
+*Dernière mise à jour : 7 novembre 2026*
 
 En utilisant NoorQuest, vous acceptez ces conditions.
 
@@ -35,13 +35,17 @@ Les remboursements relèvent des règles de Google et d'Apple.
 
 - Copier, revendre ou redistribuer le contenu des leçons
 - Tenter d'accéder aux fonctions payantes sans les payer
-- Utiliser l'application pour diffuser des propos haineux dans les Cercles
+- Choisir un prénom ou un nom de cercle injurieux, trompeur ou offensant
 
 Un compte qui enfreint ces règles peut être suspendu.
 
 ## Les Cercles
 
-Les Cercles sont des groupes privés. Vous êtes responsable de ce que vous y partagez. Nous ne modérons pas activement leur contenu, mais un cercle signalé peut être fermé.
+Un Cercle est un groupe privé que l'on rejoint avec un code à six caractères. **On n'y publie rien** : il n'y a ni messagerie, ni commentaire, ni classement.
+
+Les membres d'un cercle voient uniquement le nom du cercle, le prénom de chacun et le nombre de leçons accomplies. Le nom du cercle et votre prénom sont donc visibles par les autres membres — choisissez-les en conséquence. Un cercle dont le nom est injurieux ou trompeur peut être fermé.
+
+Vous pouvez quitter un cercle à tout moment depuis son écran.
 
 ## Limites de responsabilité
 
